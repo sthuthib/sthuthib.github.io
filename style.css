@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#leisure{
+    font-family: 'Fugaz One',sans-serif;
+}
+#name{
+    
+    font-family: 'Fugaz One',sans-serif;
+    
+}
+#leisure-2{
+    font-family: 'Fugaz One',sans-serif;
+}
+.gallery{
+    font-family: 'Fugaz One',sans-serif;
+}
+
+.gallery:hover {
+    transform: scale(1.5);
+}
+
+.zoom {
+    padding: 50px;    
+    transition: transform .2s; 
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.5); 
+  }
+
+  #image{
+    padding: 20px
+
+  }
+
+  #image:hover{
+    transform: scale(1.2);
+  }
+
